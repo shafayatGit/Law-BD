@@ -1,0 +1,140 @@
+[
+  {
+    "id":1,
+    "name": "Ariana Miles",
+    "image": "https://i.ibb.co.com/ny7B72c/a-beautiful-young-business-woman-in-a-suit-ai-generative-free-photo.jpg",
+    "speciality": "Criminal Law",
+    "experience": "10 years",
+    "license_number": 459832,
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "fee": 150
+  },
+  {
+    "id":2,
+    "name": "Jonathan Wells",
+    "image": "https://i.ibb.co.com/zTd9yvkK/attorny-headshot-example-1.webp",
+    "speciality": "Corporate Law",
+    "experience": "12 years",
+    "license_number": 782341,
+    "availability": ["Tuesday", "Thursday"],
+    "fee": 200
+  },
+  {
+    "id":3,
+    "name": "Sophia Nguyen",
+    "image": "https://i.ibb.co.com/rG7Kq9zR/businesswoman-posed-with-confidence-photo.jpg",
+    "speciality": "Family Law",
+    "experience": "8 years",
+    "license_number": 334122,
+    "availability": ["Monday", "Tuesday", "Friday"],
+    "fee": 130
+  },
+  {
+    "id":4,
+    "name": "Derek Harper",
+    "image": "https://i.ibb.co.com/YBrSPn0F/boca-raton-brett-schneider.jpg",
+    "speciality": "Immigration Law",
+    "experience": "15 years",
+    "license_number": 903478,
+    "availability": ["Wednesday", "Thursday", "Saturday"],
+    "fee": 180
+  },
+  {
+    "id":5,
+    "name": "Fatima Rahman",
+    "image": "https://i.ibb.co.com/YvVnsS1/istockphoto-1317804584-612x612.jpg",
+    "speciality": "Civil Rights",
+    "experience": "9 years",
+    "license_number": 234189,
+    "availability": ["Monday", "Thursday"],
+    "fee": 160
+  },
+  {
+    "id":6,
+    "name": "Kevin Patel",
+    "image": "https://i.ibb.co.com/d0d8RCQL/db2dc12972ba603b53a3c54ad574af5b.jpg",
+    "speciality": "Environmental Law",
+    "experience": "11 years",
+    "license_number": 883174,
+    "availability": ["Tuesday", "Friday", "Saturday"],
+    "fee": 170
+  },
+  {
+    "id":7,
+    "name": "Chloe Turner",
+    "image": "https://i.ibb.co.com/9HrttZGv/istockphoto-1354842602-612x612.jpg",
+    "speciality": "Employment Law",
+    "experience": "7 years",
+    "license_number": 481236,
+    "availability": ["Wednesday", "Thursday"],
+    "fee": 140
+  },
+  {
+    "id":8,
+    "name": "James O’Connor",
+    "image": "https://i.ibb.co.com/qMqNw6qP/images-1.jpg",
+    "speciality": "Tax Law",
+    "experience": "14 years",
+    "license_number": 754321,
+    "availability": ["Monday", "Tuesday", "Thursday"],
+    "fee": 210
+  },
+  {
+    "id":9,
+    "name": "Isabella Clark",
+    "image": "https://i.ibb.co.com/MDLLDfmC/lawyers-professional-liabilityd2063926-acb8-4367-a0d0-624c42090fc6-tmb-headershrt.jpg",
+    "speciality": "Real Estate Law",
+    "experience": "10 years",
+    "license_number": 645920,
+    "availability": ["Wednesday", "Saturday"],
+    "fee": 190
+  },
+  {
+    "id":10,
+    "name": "Mohammed Khan",
+    "image": "https://i.ibb.co.com/Ngn6vXKz/images.jpg",
+    "speciality": "Intellectual Property",
+    "experience": "13 years",
+    "license_number": 951287,
+    "availability": ["Monday", "Thursday", "Friday"],
+    "fee": 220
+  },
+  {
+    "id":11,
+    "name": "Emily Ross",
+    "image": "https://i.ibb.co.com/0j9f9Cs9/e7edb72b2dcd9067ddcd0f4bb3222da9.jpg",
+    "speciality": "Constitutional Law",
+    "experience": "16 years",
+    "license_number": 174932,
+    "availability": ["Tuesday", "Friday"],
+    "fee": 200
+  },
+  {
+    "id":12,
+    "name": "Noah Jensen",
+    "image": "https://i.ibb.co.com/5hQ1QQ8j/Whats-App-Image-2023-04-22-at-1-53-43-AM.jpg",
+    "speciality": "Bankruptcy Law",
+    "experience": "9 years",
+    "license_number": 387441,
+    "availability": ["Wednesday", "Saturday"],
+    "fee": 150
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
