@@ -1,12 +1,45 @@
-# React + Vite
+# ⚖️ Law BD — Your Trusted Legal Companion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, responsive, and intelligent lawyer discovery and appointment platform built with **React**, **Tailwind CSS**, and **React Router**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Preview
 
-## Expanding the ESLint configuration
+🔗 [Visit Law BD Live](https://law-bd-domain.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+---
+
+## 🌟 Overview
+
+**Law BD** is a responsive web application where users can browse lawyers by profile cards, dive into detailed views, and seamlessly book appointments — all while enjoying smooth transitions, dark/light theme toggles, and real-time feedback.
+
+Whether you're a client seeking legal help or showcasing your frontend skills, Law BD delivers both functionality and finesse.
+
+---
+
+## ✨ Features At a Glance
+
+✅ Interactive Lawyer Cards  
+✅ Dynamic Route-based Detail Pages  
+✅ Smart Appointment Logic (No double-booking)  
+✅ Custom Charts & Removal of Booked Slots  
+✅ SweetAlert & Toast Notifications  
+✅ 404 and Invalid License Route Handling  
+✅ Scroll-Triggered Counters  
+✅ Theme Toggle with Framer Motion  
+✅ Mobile Responsive and Smooth UI
+
+---
+
+## 🚀 Built With
+
+- ⚛️ **React** + **React Router DOM**
+- 🎨 **Tailwind CSS** + **DaisyUI**
+- 🧙 **Framer Motion** (Animations)
+- 📈 **CountUp.js** + **ScrollTrigger**
+- 🍭 **SweetAlert2**, **React Toastify**
+
+---
