@@ -56,4 +56,4 @@ Follow the steps below to run this project on your local machine:
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/shafayatGit/Law-BD.git
